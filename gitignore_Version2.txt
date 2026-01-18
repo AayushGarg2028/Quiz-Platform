@@ -1,0 +1,22 @@
+# Build artifacts
+kbc_quiz
+kbc_quiz.exe
+*.o
+*.obj
+*.out
+
+# Editor and OS files
+.vscode/
+*.swp
+*~
+.DS_Store
+
+# Logs and runtime data
+*.log
+
+# Backup and temporary files
+*.bak
+*.tmp
+
+# Ignore binary question banks if generated locally (optional)
+# ques.bin
